@@ -459,5 +459,5 @@ Access the H2 in-memory database at:
 ---
 
 ## Author
-Rwanda Government ERP System
+Rwanda Government ERP System developed by Ishara Gold
 "# ERP" 
